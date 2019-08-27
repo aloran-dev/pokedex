@@ -1,22 +1,16 @@
 # pokedex
 
-> Mi pokecliente para la pokeapi
-
-## Build Setup
-
 ``` bash
-# install dependencies
+# instalar dependencias
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# ejecutar servidor de desarrollo localhost:3000
 $ yarn dev
 
-# build for production and launch server
+# crear build de produccion y lanzar servidor
 $ yarn build
 $ yarn start
 
-# generate static project
+# generar proyecto estatico
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
